@@ -18,6 +18,7 @@
     "data movement"
   ],
   "dependencies": {
+    "bluemix-helper-config": "^0.1.13",
     "fs": "0.0.2",
     "lodash": "^4.3.0",
     "passport-github2": "^0.1.10",
